@@ -1,18 +1,24 @@
-var images = ['images2/img1.jpg','images2/img2.jpg','images2/img3.jpg','images2/img4.jpg','images2/img5.jpg','images2/img6.jpg','images2/img7.jpg','images2/img8.jpg','images2/img9.jpg','images2/img10.jpg','images2/img11.jpg','images2/img12.jpg','images2/img13.jpg','images2/img14.jpg','images2/img15.jpg'];
-var image_titles = ['royals','poker face','blank space','7 rings','electra heart', 'crybaby', 'call me maybe','roar',
-                    'pills n potions','blue jeans','ship to wreck','watermelon sugar','circus','dancing queen','moon river'];
-var audios = ['audio/royals.mp3','audio/poker.mp3','audio/blank.mp3','audio/7rings.mp3','audio/electra.mp3',
-                'audio/crybaby.mp3','audio/call.mp3','audio/roar.mp3','audio/pills.mp3','audio/bluejeans.mp3',
-                'audio/ship.mp3','audio/harry.mp3','audio/circus.mp3','audio/abba.mp3','audio/moon.mp3'];
+var images = ['images/1.jpg', 'images/2.jpg', 'images/3.jpg', 'images/4.jpg', 'images/5.jpg', 
+                'images/6.jpg', 'images/7.jpg', 'images/8.jpg', 'images/9.jpg', 'images/10.jpg', 
+                'images/11.jpg', 'images/12.jpg', 'images/13.jpg', 'images/14.jpg', 'images/15.jpg'];
 
-var titles = ['Royals by Lorde','Poker Face by Lady Gaga', 'Blank Space by Taylor Swift', '7 rings by Ariana Grande', 'Electra Heart by Marina',
-                'Crybaby by Melanie Martinez', 'Call Me Maybe by Carly Rae Jepsen', 'Roar by Katy Perry', 'Pills N Potions by Nicki Minaj',
-                'Blue Jeans by Lana Del Rey', 'Ship To Wreck by Florence + The Machine', 'Watermelon Sugar by Harry Styles', 'Circus by Britney Spears',
-                 'Dancing Queen by Abba', 'Moon River by Audrey Hepburn'];
 
-var albums = ['albums/royals.png','albums/gaga.jpg','albums/blank.png','albums/7rings.png','albums/electra.png','albums/crybaby.png', 
-                'albums/call.png','albums/roar.png','albums/pills.jpg','albums/btd.jpg','albums/ship.png','albums/sugar.jpg','albums/circus.png',
-                'albums/abba.jpeg','albums/audrey.jpeg'];
+var image_titles = ['summertime sadness','boom clap','black or white','just dance','old town road', 'shape of you', 'senorita','love you like a love song',
+                    'monster','baby','dna','tik tok','bad guy','love story','single ladies'];
+
+
+var audios = ['audio2/ldr.mp3','audio2/boomclap.mp3','audio2/michael.mp3','audio2/gaga.mp3','audio2/oldtownroad.mp3',
+                'audio2/ed.mp3','audio2/senorita.mp3','audio2/sel.mp3','audio2/monster.mp3','audio2/baby.mp3',
+                'audio2/dna.mp3','audio2/kesha.mp3','audio2/badguy.mp3','audio2/ts.mp3','audio2/beyonce.mp3'];
+
+var titles = ['Summertime Sadness by Lana Del Rey', 'Boom Clap by Charli XCX', 'Black Or White by Michael Jackson', 'Just Dance by Lady Gaga', 
+            'Old Town Road by Lil Nas X ft. Billy Ray Cyrus', 'Shape Of You by Ed Sheeran', 'Senorita by Camila Cabello ft. Shawn Mendes', 
+                'Love You Like A Love Song by Selena Gomez And The Scene', 'Monster by Eminem ft. Rihanna', 'Baby by Justin Bieber ft. Ludacris', 
+                'DNA by BTS', 'Tik Tok by Kesha', 'bad guy by Billie Eilish', 'Love Story by Taylor Swift', 'Single Ladies by Beyoncé'];
+
+var albums = ['albums2/summertime.png','albums2/boom.jpg','albums2/borw.png','albums2/gaga.jpg','albums2/old.jpg','albums2/shape.png', 
+                'albums2/senorita.jpg','albums2/sel.jpg','albums2/monster.png','albums2/baby.jpg','albums2/dna.jpg','albums2/tiktok.jpg','albums2/bad.png',
+                'albums2/ts.png','albums2/yonce.png'];
 
 
 var max=9;
