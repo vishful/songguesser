@@ -90,10 +90,10 @@ function decide() {
     }
 
     if(count==3 && score>=2){
-        window.location.replace("congrats.html");
+        window.location.replace("congrats1.html");
     }
     else if(count==3 && score!=2){
-        window.location.replace("tryagain.html");
+        window.location.replace("tryagain1.html");
     }
 }
 
@@ -145,13 +145,13 @@ var mins = 10;
 				if (mins < 0) { 
           
       if(count==3 && score>=2){
-        window.location.replace("congrats.html");
+        window.location.replace("congrats1.html");
       }
       else if(count==3 && score!=2){
-        window.location.replace("tyagain.html");
+        window.location.replace("tyagain1.html");
       }
       else {
-        window.location.replace("tryagain.html");
+        window.location.replace("tryagain1.html");
       }
 
 					minutes.value = 0; 
