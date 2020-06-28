@@ -10,12 +10,12 @@ var titles = ['Royals by Lorde','Poker Face by Lady Gaga', 'Blank Space by Taylo
                 'Blue Jeans by Lana Del Rey', 'Ship To Wreck by Florence + The Machine', 'Watermelon Sugar by Harry Styles', 'Circus by Britney Spears',
                  'Dancing Queen by Abba', 'Moon River by Audrey Hepburn'];
 
-var albums = ['albums/royals.png','albums/gaga.jpg','albums/blank.png','albums/7rings.png','albums/electra.png','albums/crybaby.png', 
+var albums = ['albums/royals.png','albums/poker.png','albums/blank.png','albums/7rings.png','albums/electra.png','albums/crybaby.png', 
                 'albums/call.png','albums/roar.png','albums/pills.jpg','albums/btd.jpg','albums/ship.png','albums/sugar.jpg','albums/circus.png',
                 'albums/abba.jpeg','albums/audrey.jpeg'];
 
 
-var max=9;
+var max=14;
 var min=0;
 
 
